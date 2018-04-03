@@ -1,6 +1,6 @@
-![](http://wes.io/dgAQ/content)
 
-# React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
+
+# React For Beginners — (https://ReactForBeginners.com)
 
 Starter files for the React For Beginners course. Come <a href="https://ReactForBeginners.com/">Learn React</a> with me!
 
